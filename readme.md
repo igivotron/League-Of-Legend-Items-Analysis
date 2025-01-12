@@ -34,6 +34,7 @@ Planned enhancements for this project include:
 
 - Adding silhouette score plots to evaluate the quality of the clusters.
 - Optimizing item purchase strategies based on clustering results.
+- Analyse the results
 
 Feel free to suggest additional features or improvements.
 
