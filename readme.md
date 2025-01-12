@@ -3,6 +3,31 @@ This readme has been writen by copilot
 
 This repository contains the code for clustering League of Legends items using the dataset provided by [Kaggle](https://www.kaggle.com/datasets/barthetur/league-of-legends-champions-items-stats/data).
 
+## Dataset
+
+The dataset used in this project is sourced from Kaggle and includes various statistics for League of Legends champions and items.
+
+## Objective
+
+The main objective of this code is to classify League of Legends items into different clusters based on their attributes.
+
+
+## Results
+
+The results of the clustering analysis will be displayed within the notebook, including visualizations of the clusters and insights derived from the data.
+
+## Visualization
+
+![2D Plot of Clusters](images/2D_plot.png)
+
+![3D Plot of Clusters](images/3D_plot.png)
+
+The above images show a 2D and a 3D plot of 3 clusters formed by the items based on their attributes.
+
+
+The first approximation suggests 55 clusters
+![3D Plot of Clusters](images/silhouette_score.png)
+
 ## Future Improvements
 
 Planned enhancements for this project include:
@@ -11,14 +36,6 @@ Planned enhancements for this project include:
 - Optimizing item purchase strategies based on clustering results.
 
 Feel free to suggest additional features or improvements.
-
-## Dataset
-
-The dataset used in this project is sourced from Kaggle and includes various statistics for League of Legends champions and items.
-
-## Objective
-
-The main objective of this code is to classify League of Legends items into different clusters based on their attributes.
 
 ## File Description
 
@@ -41,12 +58,7 @@ The main objective of this code is to classify League of Legends items into diff
 - matplotlib
 - seaborn
 
-## Results
-
-The results of the clustering analysis will be displayed within the notebook, including visualizations of the clusters and insights derived from the data.
-
 ## License
 
 This project is licensed under the MIT License.
-
 
